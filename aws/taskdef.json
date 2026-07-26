@@ -19,7 +19,7 @@
       "logConfiguration": {
         "logDriver": "awslogs",
         "options": {
-          "awslogs-group": "/aws/cartforge",
+          "awslogs-group": "/ecs/cartforge",
           "awslogs-region": "us-east-1",
           "awslogs-stream-prefix": "cartforge"
         }
